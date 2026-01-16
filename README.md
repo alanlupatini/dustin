@@ -10,6 +10,13 @@
   
 </p>
 
+---
+
+<p align="center">
+  <a href="https://docs.google.com/presentation/d/14s7-ak_1qy0efUfqHc_QPAmZb7DfYzArKi-7Hykm-h0/edit?slide=id.p#slide=id.p">
+    <img src="https://img.shields.io/badge/View%20Project%20Presentation-Slides-blue?style=for-the-badge&logo=google-slides">
+  </a>
+</p>
 
 ---
 
@@ -140,6 +147,7 @@ Cross-validation showed stable performance across folds with low variance.
 - Explore additional ensemble methods (XGBoost, LightGBM)
 
 ---
+
 
 # Team
 
